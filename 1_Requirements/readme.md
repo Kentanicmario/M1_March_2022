@@ -1,3 +1,4 @@
+# VEHICLE PARKING MANAGEMENT SYSTEM
 # INTRODUCTION
 Vehicle Parking Management System is based on the concept of generating vehicle’s records & updates it. Here, the user can add Vehicle details such as Vehicle Number into the program and store it in the database. The proposed method is hassle free and less time-consuming. This System simplifies the method of storing arrival and departure information. This project is easy to operate and hassle free. This project has been built in C language as a console application without using any graphic features.
 # OBJECTIVES
